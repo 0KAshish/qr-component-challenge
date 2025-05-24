@@ -28,7 +28,7 @@ body {
   width: 320px;
   height: 499px;
   padding: 16px;
-  box-shadow: 0 5px 7px 0 hsla(0, 0%, 0%, 0.1);
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
 
