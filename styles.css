@@ -65,12 +65,15 @@ body {
 }
 
 .attribution {
-  display: none;
-  margin-top: 28px;
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
   font-size: 11px;
   text-align: center;
-  position: relative;
-  top: 100vh;
+  font-size: 11px;
 }
 
 .attribution a {
